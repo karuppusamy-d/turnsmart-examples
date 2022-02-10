@@ -1,5 +1,5 @@
-#define WIFI_SSID "WIFI_NAME"         // WIFI SSID here
-#define WIFI_PASSWORD "WIFI_PASSWORD" // WIFI password here
+#define WIFI_SSID "WIFI_NAME"          // WIFI SSID here
+#define WIFI_PASSWORD "WIFI_PASSWORD"  // WIFI password here
 
 #define SERVER_URL "https://io.karuppusamy.me/api"
 #define PROJECT_ID "PROJECT_ID"
